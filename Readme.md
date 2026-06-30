@@ -1,4 +1,4 @@
-## Appointment Full Stack App
+## Appointment Full Stack App - Appointy
 
 
 ## 🔑 Key Features
